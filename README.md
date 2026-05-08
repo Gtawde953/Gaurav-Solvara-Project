@@ -8,7 +8,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-38B2AC?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-12-black?logo=framer&logoColor=white)](https://www.framer.com/motion/)
 [![React Router](https://img.shields.io/badge/React_Router-7-CA4245?logo=react-router&logoColor=white)](https://reactrouter.com/)
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?logo=vercel&logoColor=white)](https://vercel.com/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?logo=vercel&logoColor=white)](https://solvara-safaris.vercel.app/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
@@ -60,10 +60,10 @@ This project was developed as a personal side project to sharpen skills in:
 
 ## 🌐 Live Demo
 
-🔗 **[https://gaurav-solvara-project.vercel.app](https://gaurav-solvara-project.vercel.app)**
+🔗 **[https://solvara-safaris.vercel.app](https://solvara-safaris.vercel.app)**
 
 The application is deployed on **Vercel** and served via a global CDN with automatic
-HTTPS, instant cache invalidation, and SPA routing support.
+HTTPS, instant cache invalidation, and full SPA routing support.
 
 ---
 
@@ -345,6 +345,9 @@ globals and React-specific rules for hooks and refresh behaviour.
 ---
 
 ## ☁️ Deployment on Vercel
+
+### Live URL
+🔗 **[https://solvara-safaris.vercel.app](https://solvara-safaris.vercel.app)**
 
 ### Why Vercel?
 Vercel is the ideal platform for Vite/React SPAs — zero configuration required,
